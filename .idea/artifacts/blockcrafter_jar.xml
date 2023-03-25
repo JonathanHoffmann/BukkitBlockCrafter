@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="blockcrafter:jar">
+    <output-path>$USER_HOME$/Downloads/MCtestServer/plugins</output-path>
+    <root id="archive" name="blockcrafter.jar">
+      <element id="module-output" name="blockcrafter" />
+    </root>
+  </artifact>
+</component>

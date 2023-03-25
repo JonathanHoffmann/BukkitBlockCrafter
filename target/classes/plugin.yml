@@ -1,0 +1,9 @@
+name: BlockCrafter
+main: me.Jonnyfant.blockcrafter.blockcrafter
+author: Jonnyfant
+version: 1.0
+commands:
+  block:
+    usage: /<command>
+    description: Turn your ingots into blocks!
+    permission: blockcrafter.use
