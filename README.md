@@ -1,23 +1,21 @@
 # BukkitBlockCrafter
-https://www.curseforge.com/minecraft/bukkit-plugins/blockcrafter
-
 This Plugin makes Nuggets and Ingots and alike into blocks with the command /block
 
 
-In the config files you can enable and disable the following options:
-Iron Nugget-> Iron Ingot
-Iron Ingot -> Iron Block
-Gold Nugget -> Gold Ingot
-Gold Ingot -> Gold Block
-Diamond -> Diamond Block
-Emerald -> Emerald Block
-Coal -> Coal Block
-Redstone -> Redstone Block
-Slime Ball -> Slime Block
+In the config files you can enable and disable the following options:<br />
+Iron Nugget-> Iron Ingot<br />
+Iron Ingot -> Iron Block<br />
+Gold Nugget -> Gold Ingot<br />
+Gold Ingot -> Gold Block<br />
+Diamond -> Diamond Block<br />
+Emerald -> Emerald Block<br />
+Coal -> Coal Block<br />
+Redstone -> Redstone Block<br />
+Slime Ball -> Slime Block<br />
 Netherite Ingot -> Netherite Block
 
-Commands:
+Commands:<br />
 /block
 
-Permissions:
+Permissions:<br />
 blockcrafter.use
